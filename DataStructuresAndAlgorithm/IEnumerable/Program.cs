@@ -21,7 +21,7 @@ namespace IEnumerable
             try
             {
                 stringsFound =
-                    from line in new StreamReaderEnumerable(@"")
+                    from line in new StreamReaderEnumerable(@"");
             }
             catch
             {
