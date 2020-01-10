@@ -1,0 +1,11 @@
+C:\Users\86155\Desktop\Intelligence\Intelligence\bin\Debug\netcoreapp3.1\Intelligence.exe
+C:\Users\86155\Desktop\Intelligence\Intelligence\bin\Debug\netcoreapp3.1\Intelligence.deps.json
+C:\Users\86155\Desktop\Intelligence\Intelligence\bin\Debug\netcoreapp3.1\Intelligence.runtimeconfig.json
+C:\Users\86155\Desktop\Intelligence\Intelligence\bin\Debug\netcoreapp3.1\Intelligence.runtimeconfig.dev.json
+C:\Users\86155\Desktop\Intelligence\Intelligence\bin\Debug\netcoreapp3.1\Intelligence.dll
+C:\Users\86155\Desktop\Intelligence\Intelligence\bin\Debug\netcoreapp3.1\Intelligence.pdb
+C:\Users\86155\Desktop\Intelligence\Intelligence\obj\Debug\netcoreapp3.1\Intelligence.csprojAssemblyReference.cache
+C:\Users\86155\Desktop\Intelligence\Intelligence\obj\Debug\netcoreapp3.1\Intelligence.AssemblyInfoInputs.cache
+C:\Users\86155\Desktop\Intelligence\Intelligence\obj\Debug\netcoreapp3.1\Intelligence.AssemblyInfo.cs
+C:\Users\86155\Desktop\Intelligence\Intelligence\obj\Debug\netcoreapp3.1\Intelligence.dll
+C:\Users\86155\Desktop\Intelligence\Intelligence\obj\Debug\netcoreapp3.1\Intelligence.pdb
